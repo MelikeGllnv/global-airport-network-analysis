@@ -1,6 +1,6 @@
 # Global Airport Network Analysis — Finding the "Silent but Vital" Airports
 
-**Which airports would cause the widest disruption if they went down — and are they really just the biggest hubs?**
+**Which airports would cause the widest disruption if they went down - and are they really just the biggest hubs?**
 
 I modelled the global air route network as a directed graph of **6,072 airports and 37,042 connections** and
 compared three centrality measures to find out. The answer: no. Some of the most critical bridge airports in the
