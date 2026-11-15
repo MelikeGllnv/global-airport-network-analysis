@@ -71,11 +71,11 @@ From an Aeronautical Information Management (AIM) point of view, the results sug
 
 ## Method
 
-1. **Load & clean** — remove airports without IATA codes and routes with missing endpoints (pandas).
-2. **Build the network** — airports as nodes, scheduled routes as directed edges (NetworkX `DiGraph`).
-3. **Centrality analysis** — degree, betweenness and closeness centrality for every airport.
-4. **Visualise** — interactive geospatial maps for each measure (Plotly).
-5. **Export** — full ranking table for all 6,072 airports.
+1. **Load & clean** - remove airports without IATA codes and routes with missing endpoints (pandas).
+2. **Build the network** - airports as nodes, scheduled routes as directed edges (NetworkX `DiGraph`).
+3. **Centrality analysis** - degree, betweenness and closeness centrality for every airport.
+4. **Visualise** - interactive geospatial maps for each measure (Plotly).
+5. **Export** - full ranking table for all 6,072 airports.
 
 ## Repository structure
 
