@@ -1,4 +1,4 @@
-# Global Airport Network Analysis — Finding the "Silent but Vital" Airports
+# Global Airport Network Analysis - Finding the "Silent but Vital" Airports
 
 **Which airports would cause the widest disruption if they went down - and are they really just the biggest hubs?**
 
